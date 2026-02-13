@@ -1,0 +1,7 @@
+title: Daisy's Learning Lab
+baseurl: ""          # 空字符串，如果是 username.github.io 就不需要
+url: "https://fangfangLyu.github.io"
+markdown: kramdown
+theme: minima        # 可以用GitHub Pages默认主题
+plugins:
+  - jekyll-feed
