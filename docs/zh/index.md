@@ -1,4 +1,7 @@
-<a href="/en/index.html">English</a> | <a href="/zh/index.html">中文</a>
+<p align="right">
+  <a href="/en/index.html">English</a> | <a href="/zh/index.html">中文</a>
+</p>
+
 ---
 title: Daisy的学习实验室
 ---
